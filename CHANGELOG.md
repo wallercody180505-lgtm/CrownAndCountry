@@ -13,3 +13,13 @@ will be documented in this file.
 - Custom window title.
 - Frame rate limiting.
 - Window close event handling.
+
+## [0.1.0] - 2026-10-26
+
+### Added
+- Interactive main menu.
+- New Game, Settings and Exit buttons.
+- Kingdom Management placeholder screen.
+- Settings screen with Back navigation.
+- Game-state-based screen transitions.
+- Mouse collision detection for UI buttons.
